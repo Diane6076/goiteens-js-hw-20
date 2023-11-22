@@ -18,3 +18,4 @@ function fullScreenImg(index) {
 
 
 //2
+
